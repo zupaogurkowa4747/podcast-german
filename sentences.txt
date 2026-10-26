@@ -1,0 +1,214 @@
+=== 1. DAILY ROUTINES & HOME ===
+ich schalte meinen Laptop aus. - I am turning off my laptop
+Ich gehe ins Bett. - I'm going to bed
+Ich stelle den Wecker für morgen Früh. - I am setting my alarm for tomorrow morning
+Ich schlafe ein. - I fall asleep
+Ich schließe mein Telefon an. - I'm plugging in my phone
+Ich stehe auf. - I get up
+Ich setze meine Kopfhörer auf. - I'm putting on my headphones
+Ich nehme meine Kopfhörer ab. - I'm taking off my headphones
+Ich ziehe mich an. - I'm getting dressed
+Ich ziehe meine Schuhe an. - I'm putting on my shoes
+Ich verlasse das Haus. - I'm leaving the house
+Ich gehe auf die Toilette. - I'm going to the bathroom
+Ich komme schon raus. - I'm coming out now
+Mach die Tür auf. - Open the door
+Ich schaue YouTube. - I'm watching YouTube
+Ich schaue eine Serie. - I'm watching a TV show
+Ich schaue einen Film. - I'm watching a movie
+Ich gehe was schauen. - I'm going to watch something
+Ich höre Musik. - I'm listening to music
+Ich schalte Musik ein. - I'm turning on some music
+Schalte Musik ein. - Turn on some music
+Ist es warm im Haus? - Is it warm in the house?
+Hast du den Schlüssel? - Do you have the key?
+Ich habe kein TikTok. - I don't have TikTok
+Ich schaue keine Short-Videos. - I don't watch short-form content
+
+=== 2. FOOD & MEALS ===
+Ich esse ein Brot. - I'm eating a sandwich
+Ich esse zu Mittag. - I'm eating lunch
+Was gibt es heute zum Mittagessen? - What is for lunch today?
+Wann gibt es Essen? - When will lunch be ready?
+Ich gehe etwas essen. - I'm going to eat something
+Ich weiß nicht, was ich essen soll. - I don't know what to eat
+Ich weiß nicht, was ich zu Abend essen soll. - I don't know what to eat for dinner
+Kaufst du mir ein Getränk? - Will you buy me a drink?
+Kann ich etwas haben? - Can I have a bit?
+Kann ich etwas trinken? - Can I get a drink?
+Hast du etwas zu essen? - Do you have anything to eat?
+Ich habe mir Essen gekauft. - I bought myself some food
+Gehen wir eine Pizza oder einen Kebab essen? - Shall we go for pizza or a kebab?
+
+=== 3. SCHOOL, LEARNING & SUBJECTS ===
+Ich packe meine Schultasche. - I'm packing my backpack for school
+Ich schreibe ins Heft. - I'm writing in my notebook
+Ich lerne Mathematik. - I'm studying math
+Ich habe Polnisch, Englisch, Mathe. - I have Polish, English, math class
+Ich habe nur ein Mädchen in der Klasse. - I have only one girl in my class
+Ich habe für die Schule gelernt. - I studied for school
+Ich habe eine Eins in Mathe bekommen. - I got an A in math
+Ich lese Bücher. - I read books
+Ich wiederhole den Stoff. - I'm reviewing the material
+Ich kann nichts für Mathe. - I don't know anything for math
+Ich habe gleich einen Polnischtest. - I have a short Polish quiz in a moment
+Ich habe gleich eine Mathearbeit. - I have a math exam in a moment
+Ich habe heute 7 Stunden. - I have 7 lessons today
+Ich komme um 15 Uhr nach Hause. - I get back home at 3 PM
+Ich gehe gleich vor die Schule. - I'm going near the school soon
+Ich habe Unterricht mit Bekier. - I have class with Bekier
+Gleich ist Pause. - Break is starting soon
+In 5 Minuten lerne ich. - In 5 minutes I am going to study
+Kannst du etwas für Mathe? - Do you know anything for math class?
+Ich kann gar nichts. - I don't know anything
+Hast du die Hausaufgabe gemacht? - Did you do the homework?
+Ich lerne Deutsch. - I'm learning German
+Welche Stunde haben wir jetzt? - Which lesson do we have now?
+Wie viele Stunden haben wir heute? - How many lessons do we have today?
+Welche Spindnummer hast du? - What is your locker number?
+Wisch die Tafel ab. - Wipe the blackboard
+Am Wochenende gehe ich in die Nähe der Schule. - On the weekend I'm going near the school
+
+=== 4. TECHNOLOGY, IT & GAMING ===
+Meine Batterie ist leer. - My battery is dead
+Das WLAN funktioniert nicht. - My Wi-Fi isn't working
+Nur noch eine Runde! - Just one more round!
+Ich erstelle Webseiten. - I build websites
+Ich spiele Computerspiele. - I play computer games
+Ich züchte Drachen in Grow Castle. - I'm breeding dragons in Grow Castle
+Ich fange an mit Linux zu spielen. - I'm starting to tinker with Linux
+Ich mag die Karte auf Bump erkunden. - I like exploring the map on Bump
+Ich interessiere mich für Computer. - I am interested in computers
+Spielen wir etwas? - Shall we play something?
+Meine Lieblingsserie ist Breaking Bad. - My favorite series is Breaking Bad
+Ich habe gerade angefangen Breaking Bad zu schauen. - I just started watching Breaking Bad
+Welche Grafikkarte hast du? - What graphics card do you have?
+Welchen Prozessor hast du? - What processor do you have?
+Wie viel GB RAM hast du? - How much RAM do you have?
+Spielen wir League of Legends? - Shall we play League of Legends?
+Hast du GitHub? - Do you have GitHub?
+Kannst du LoL spielen? - Do you know how to play LoL?
+Was spielst du? - What are you playing?
+Wer ist dein Lieblings-Youtuber? - Who is your favorite Youtuber?
+Hast du Linux oder Windows? - Do you run Linux or Windows?
+Schon wieder diese TikToks? - These TikToks again?
+Ich habe einen hohen Ping. - I have high ping
+Welchen Champion spielst du? - Which character are you playing?
+Welche Spiele spielst du? - What games do you play?
+Was für ein Handy hast du? - What kind of phone do you have?
+Wie viel Akku hast du noch? - How much battery do you have left?
+Benutzt du KI? - Do you use AI?
+Ich benutze oft KI. - I use AI often
+Wie lange spielst du das Spiel schon? - How long have you been playing this game?
+
+=== 5. HANGOUTS, SHOPPING & GOING OUT ===
+Ich gehe zur Bushaltestelle. - I'm going to the bus stop
+Ich gehe Rad fahren. - I'm going cycling
+Ich verlasse das Haus. - I'm leaving the house
+Ich bin gleich fertig. - I'll be done in a second
+Ich warte am Busbahnhof auf den Bus. - I'm waiting for the bus at the bus station
+Ich gehe in den Laden. - I'm going to the shop
+Gehen wir irgendwohin? - Are we going somewhere?
+Gehen wir zum Automaten? - Shall we go to the vending machine?
+Gehen wir zu den Plakaten? - Are we going to the billboards?
+Was hast du gekauft? - What did you buy?
+Gehen wir in den Laden? - Shall we go to the shop?
+Ich würde gerne Rad fahren. - I'd love to go for a bike ride
+Komm, wir gehen in den Laden. - Come on, let's go to the shop
+Können wir rausgehen? - Can we go outside?
+Fahren wir zu McDonald's? - Shall we go to McDonald's?
+Wohin fahren wir in den Ferien? - Where are we going for summer vacation?
+Gib die Schaukel zurück! - Give the swing back!
+Gehen wir ins Internetcafé? - Shall we go use the Wi-Fi spot?
+Gehen wir um 16 Uhr irgendwohin? - Shall we go somewhere at 4 PM?
+Gehen wir. - Let's go
+Hol den Ball. - Go get the ball
+Wie viel kostet das? - How much does it cost?
+Kaufst du etwas? - Are you buying something?
+
+=== 6. SOCIAL, SMALL TALK & FRIENDSHIPS ===
+Ich chatte mit meinen Freunden. - I'm chatting with my friends
+Ich mag Programmieren, Radfahren und Musik hören. - I like coding, riding a bike, and listening to music
+Ich kann den Zauberwürfel lösen. - I can solve a Rubik's cube
+Spielst du Volleyball? - Do you play volleyball?
+Hilfst du mir? - Can you help me?
+Gib mir das bitte. - Pass me that, please
+Was machst du? - What are you doing?
+Wie geht's dir? - How are you doing?
+Ich bin gut darin. - I'm good at this
+Kannst du Schach spielen? - Can you play chess?
+Warum so? - Why like that?
+Du siehst gut aus! - You look great!
+Kann ich dir bei etwas helfen? - Can I help you with something?
+Und was denkst du? - What do you think?
+Hast du einen Führerschein? - Do you have a driver's license?
+Lange nicht gesehen! - Long time no see!
+Wie heißt du mit Nachnamen? - What is your last name?
+Wie heißt dieses Lied? - What is this song called?
+Das war krass. - That was intense
+Ich höre gerne Rap, zum Beispiel Otsochodzi oder Oki. - I like listening to rap, like Otsochodzi or Oki
+Wie heißt du? - What is your name?
+Woher kommst du? - Where are you from?
+Bist du zum ersten Mal in Polen? - Is it your first time in Poland?
+Hast du Geschwister? - Do you have any siblings?
+Ich habe drei Geschwister, eine Schwester und zwei Brüder. - I have three siblings, one sister and two brothers
+Ich bin der Jüngste in der Familie. - I am the youngest in the family
+Ich habe eine Cousine und zwei Cousins. - I have one female cousin and two male cousins
+Aplikujesz to do siebie. - Don't copy me
+Gefällt es dir? - Do you like it?
+Ich hatte noch nie eine Freundin. - I've never had a girlfriend
+Wie viel Uhr ist es? - What time is it?
+Wie heißt das? - What is this called?
+Was bedeutet das? - What does that mean?
+Was meinst du? - What do you mean?
+Schwierige Frage. - That's a tough question
+Welche Schuhgröße hast du? - What is your shoe size?
+Ich gratuliere dir. - Congratulations
+Ich habe drei beste Freunde. - I have three best friends
+Ich verstehe seine Denkweise nicht. - I don't understand his reasoning
+
+=== 7. PERSONAL LIFE, HABITS & FEELINGS ===
+Ich bin todmüde. - I'm dead tired
+Ich will nicht aufstehen. - I don't want to get up
+Ich zahle monatlich 120 PLN auf mein Sparkonto ein. - I deposit 120 PLN into my savings account every month
+Warum regst du dich auf? - Why are you getting upset?
+Bist du sauer? - Are you angry?
+Ich habe gute Laune. - I'm in a good mood
+Warum hast du so schlechte Laune? - Why are you in such a bad mood?
+Warum müsst ihr mich so nerven? - Why do you have to annoy me so much?
+Das ist ziemlich groß. - That's pretty big
+Ich weiß nicht, ob ich an Gott glaube. - I don't know if I believe in God
+Es fällt mir schwer ohne Handy zu leben und ich möchte das ändern. - It's hard for me to live without a phone and I want to change that
+
+=== 8. BANTER, SLANG & STRONG WORDS ===
+Er ist komisch. - He is weird
+Łukasz ist dumm. - Łukasz is stupid
+Verpiss dich. - Fuck off
+Fick dich. - Fuck you
+Hau ab. - Get lost
+Er ist ein bisschen dumm. - He is a bit stupid
+
+=== 9. WEATHER & TIME ===
+Es ist so warm heute. - It's so warm today
+Es ist so kalt heute. - It's so cold today
+Wie ist das Wetter heute? - How is the weather today?
+Wie wird das Wetter morgen? - What will the weather be like tomorrow?
+Soll es heute regnen? - Is it supposed to rain today?
+Glaubst du, ich sollte eine Jacke anziehen? - Do you think I should put on a jacket?
+Bald ist Winter. - Winter is coming soon
+
+=== 10. HEALTH & BODY ===
+Badet jemand? - Is anyone taking a bath?
+Ich fühle mich komisch. - I feel weird
+Mein Bauch tut weh. - My stomach hurts
+Morgen gehe ich zum Arzt. - Tomorrow I am going to the doctor
+Wann habe ich meinen Arzttermin? - When is my doctor appointment scheduled?
+Meldest du mich beim Arzt an? - Will you book a doctor appointment for me?
+Ich bin ein bisschen krank. - I'm a bit sick
+Ich habe Schnupfen. - I have a runny nose
+Mein T-Shirt ist schmutzig. - My t-shirt is dirty
+Ich hatte eine Operation an den Beinen. - I had surgery on my legs
+Ich bin auf Zehenspitzen gegangen. - I walked on my toes
+Ich muss mal pinkeln. - I need to pee
+Wo ist die Toilette? - Where is the bathroom?
+Ich bin Erster! - I'm first!
